@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates an end-to-end order analytics reporting solution built using **PostgreSQL**, **Python**, **Power BI**, and **Excel VBA**.
+This project demonstrates an end-to-end order analytics platform built using **PostgreSQL**, **Python**, **Power BI**, and **Excel VBA**.
 
 The system processes e-commerce order data into a star schema, loads it into PostgreSQL, visualizes business KPIs in Power BI, and automatically generates management reports in Excel and PDF.
 
